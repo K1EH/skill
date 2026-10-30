@@ -1,0 +1,4 @@
+interface:
+  display_name: "0. deep-interview"
+  short_description: "Clarify MVP requirements with up to three questions"
+  default_prompt: "Use $0-deep-interview for this service."
