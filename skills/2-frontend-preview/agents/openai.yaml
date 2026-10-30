@@ -1,0 +1,4 @@
+interface:
+  display_name: "2. frontend-preview"
+  short_description: "Compare frontend options and build the selected design"
+  default_prompt: "Use $2-frontend-preview for this service."
