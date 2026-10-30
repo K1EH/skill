@@ -1,0 +1,4 @@
+interface:
+  display_name: "Delegate Lite"
+  short_description: "Delegate independent work to at most two subagents"
+  default_prompt: "Use $delegate-lite to help with this MVP project."
