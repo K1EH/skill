@@ -1,4 +1,0 @@
-interface:
-  display_name: "Build Lite"
-  short_description: "Plan and implement a small service with focused checks"
-  default_prompt: "Use $build-lite to help with this MVP project."

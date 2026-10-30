@@ -1,4 +1,0 @@
-interface:
-  display_name: "PRD Lite"
-  short_description: "Write a short MVP PRD with testable acceptance criteria"
-  default_prompt: "Use $prd-lite to help with this MVP project."

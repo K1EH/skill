@@ -1,4 +1,0 @@
-interface:
-  display_name: "Interview Lite"
-  short_description: "Clarify MVP requirements with up to three questions"
-  default_prompt: "Use $interview-lite to help with this MVP project."
