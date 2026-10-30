@@ -1,0 +1,4 @@
+interface:
+  display_name: "3. build"
+  short_description: "Plan and implement a small service with focused checks"
+  default_prompt: "Use $3-build for this service."
