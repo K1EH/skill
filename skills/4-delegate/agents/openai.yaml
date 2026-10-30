@@ -1,0 +1,4 @@
+interface:
+  display_name: "4. delegate"
+  short_description: "Delegate independent work to at most two subagents"
+  default_prompt: "Use $4-delegate for this service."
