@@ -1,4 +1,4 @@
 interface:
   display_name: "4. delegate"
-  short_description: "Delegate independent work to at most two subagents"
-  default_prompt: "Use $4-delegate for this service."
+  short_description: "Delegate work to up to three GPT 6.1 Sol subagents"
+  default_prompt: "Use $4-delegate with up to three concurrent gpt-6.1-sol subagents, when the runtime supports the model and concurrency."
