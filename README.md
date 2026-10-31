@@ -25,7 +25,7 @@ Superpowers 등의 공개 스킬에서 아이디어를 가져와 축약·재작�
 | --- | --- | --- |
 | [0-deep-interview](skills/0-deep-interview/SKILL.md) | 가장 큰 불확실성부터 질문하여 요구사항 정리 | 표준 최대 6개, 선택지·장단점·정책·예외 확인 |
 | [1-prd](skills/1-prd/SKILL.md) | 기능과 관찰 가능한 완료 조건을 PRD로 작성 | 약 100줄, 필수·선택 구분 |
-| [2-frontend-preview](skills/2-frontend-preview/SKILL.md) | 실제 UI 시안 비교 페이지 → 사용자 선택 → 서비스 적용 | 기본 3개 시안, 선택 전 구현 보류 |
+| [2-frontend-preview](skills/2-frontend-preview/SKILL.md) | 정보 구조·핵심 흐름·상태가 다른 완성도 높은 UI 비교 → 선택 → 구현 계약 | 표준 3개, 대표 화면+상세/편집·모바일·상태 비교 |
 | [3-build](skills/3-build/SKILL.md) | 작업 계획 → 필수 기능 구현 → 통합 검증 | 보통 4~8개 작업, 최종 검토 1회 |
 | [4-delegate](skills/4-delegate/SKILL.md) | 독립 작업만 서브에이전트에 분담 | 표준 최대 1개 / 깊게 최대 2개, 중첩 위임 금지 |
 | [5-manual-review](skills/5-manual-review/SKILL.md) | 번호 매뉴얼 작성 → 항목별 피드백 → 코드·문서 수정 | P03-02처럼 고정 페이지·항목 ID |
