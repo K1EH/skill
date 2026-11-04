@@ -1,0 +1,4 @@
+interface:
+  display_name: "2. build"
+  short_description: "Lock the design, verify result scale, then build API and UI"
+  default_prompt: "Use $2-build to implement this assignment."
