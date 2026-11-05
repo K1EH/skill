@@ -1,0 +1,4 @@
+interface:
+  display_name: "2. prd"
+  short_description: "Choose an approach, write a short PRD, get review and approval"
+  default_prompt: "Use $2-prd to write the PRD."

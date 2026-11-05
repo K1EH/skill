@@ -1,0 +1,4 @@
+interface:
+  display_name: "1. kickoff"
+  short_description: "Profile the data and ask the stakeholder one question at a time"
+  default_prompt: "Use $1-kickoff for this assignment."

@@ -1,4 +1,0 @@
-interface:
-  display_name: "5. manual-review"
-  short_description: "Review working features with stable manual page and item IDs"
-  default_prompt: "Use $5-manual-review for this service."

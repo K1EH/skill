@@ -1,4 +1,0 @@
-interface:
-  display_name: "2. frontend-preview"
-  short_description: "Compare polished UI directions, flows, and states"
-  default_prompt: "Use $2-frontend-preview to create polished interactive UI candidates and carry the selected design into implementation."

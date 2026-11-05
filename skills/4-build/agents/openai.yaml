@@ -1,0 +1,4 @@
+interface:
+  display_name: "4. build"
+  short_description: "Build API, edge scenarios, and UI on verified core logic"
+  default_prompt: "Use $4-build to implement the API and UI."
