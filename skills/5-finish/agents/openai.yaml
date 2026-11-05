@@ -1,0 +1,4 @@
+interface:
+  display_name: "5. finish"
+  short_description: "Check against the brief, rerun from scratch, prepare submission"
+  default_prompt: "Use $5-finish to prepare the submission."

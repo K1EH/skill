@@ -1,4 +1,0 @@
-interface:
-  display_name: "0. deep-interview"
-  short_description: "Resolve requirements through decisions and tradeoffs"
-  default_prompt: "Use $0-deep-interview to explore important requirements through choices, tradeoffs, and edge cases."

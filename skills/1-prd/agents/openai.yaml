@@ -1,4 +1,0 @@
-interface:
-  display_name: "1. prd"
-  short_description: "Write a short MVP PRD with testable acceptance criteria"
-  default_prompt: "Use $1-prd for this service."

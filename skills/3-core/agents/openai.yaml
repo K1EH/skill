@@ -1,0 +1,4 @@
+interface:
+  display_name: "3. core"
+  short_description: "Plan tasks, build core logic, and verify result scale"
+  default_prompt: "Use $3-core to build and verify the core logic."
